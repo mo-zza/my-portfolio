@@ -1,7 +1,0 @@
-.idea
-.yarn
-.gitignore
-.yarnrc.yml
-yarn.lock
-.pnp.loader.mjs
-.pnp.cjs
